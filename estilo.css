@@ -1,0 +1,11 @@
+table, tr, td, th {
+	border-style: solid; border-width: 1px;
+	border-color: black;
+}
+
+.mi-clase {
+	color:#FF0000;
+	background-color: #00FF00 ;
+	font-size: 20px;
+	font-wight: bold;
+}
